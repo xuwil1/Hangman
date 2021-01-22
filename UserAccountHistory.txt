@@ -1,0 +1,6 @@
+      Name  Password      Wins    Losses    winPct           Winstreak              Lastplay
+     Erica   pw12345        12         8       0.6 %                -1               heavily
+      Siri   13579pw         4         2     66.67 %                -1               fireman
+     Alexa   pw24680         2         2        50 %                 1               cookies
+   Cortana   67890pw         0         0         0 %                 0             emptyWord
+    Google   pw22224         0         0         0 %                 0             emptyWord
