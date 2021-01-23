@@ -1,1 +1,3 @@
 # Hangman
+
+This program has three options in the menu; *Start new game*, *Sign in as user*, and *Sign in as admin*. If the user selects *Start new game*, the program will choose random word from text file "*WordList.txt*" and the game will begin. The user will have 6 incorrect tries to guess the word, otherwise they will lose the game and the word will be revealed. If the user selects "*Sign in as user*", the user will be prompted to log in with a username and password, which is stored in textfile "*UserAccountHistory.txt*", after logging in the user will have the option to play the game or check history which is  also saved in "*UserAccountHistory.txt*".
